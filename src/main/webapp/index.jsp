@@ -8,7 +8,7 @@
 <body>
   <div class="jumbotron" style="background-color:white">
      <h1 class="text-center">Welcome to</h1>
-      <img src="https://static1.squarespace.com/static/ta/52a74d9ae4b0253945d2aee9/1033/scripts/site-bundle.js" alt="Spidertocat"
+      <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is to done Automate with jenkins and Autodeploy on Tomcat Server</h1>
       <h2 class="text-center">Now you are with Srikanth Kesireddy</h2>
