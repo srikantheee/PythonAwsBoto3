@@ -8,7 +8,7 @@
 <body>
   <div class="jumbotron" style="background-color:white">
      <h1 class="text-center">Welcome to</h1>
-      <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
+      <img src="https://www.learntek.org/wp-content/uploads/2015/11/cropped-Learntek-logo-120x120.jpg" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is to done Automate with jenkins and Autodeploy on Tomcat Server</h1>
       <h2 class="text-center">Now you are with Srikanth Kesireddy</h2>
@@ -21,3 +21,4 @@
   </div>
 </body>
 </html>
+
